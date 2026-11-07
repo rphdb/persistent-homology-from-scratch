@@ -1,0 +1,5 @@
+   __pycache__/
+   *.pyc
+   .DS_Store
+   filtrations/filtration_[A-D].txt
+   outputs/barcode_filtration_[A-D].txt
